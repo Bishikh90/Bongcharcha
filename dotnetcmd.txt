@@ -1,0 +1,8 @@
+dotnet new sln ---> creating new Sln file
+dotnet new webapi -o API ----> Creating new web API
+dotnet sln add API ---> Add project to sln file
+dotnet run ----> Running the webapi
+
+
+
+Microsoft.EntityFrameworkCore ----> Nuget Package Manager
